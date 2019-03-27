@@ -16,7 +16,16 @@ repeatable.
 
 
 ## Repositories:
- | Repository Name | Repository Link | Documentation                          |
- | --------------- | --------------- | -------------------------------------- |
- | Analyses        | https://github.io/biotaphy/analyses/ | https://biotaphy.github.io/analyses/ | 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+{: .tablelines}
+
+|-------------|--------------|----------|
+| Repository Name | Repository Link | Documentation                          |
+| --------------- | --------------- | -------------------------------------- |
+| Analyses        | https://github.io/biotaphy/analyses/ | https://biotaphy.github.io/analyses/ | 
+|-------------|--------------|----------|
 
