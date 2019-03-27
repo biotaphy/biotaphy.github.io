@@ -26,6 +26,6 @@ repeatable.
 |-------------|--------------|----------|
 | Repository Name | Repository Link | Documentation                          |
 | --------------- | --------------- | -------------------------------------- |
-| Analyses        | [https://github.io/biotaphy/analyses/] | [https://biotaphy.github.io/analyses/] | 
+| Analyses        | [[https://github.io/biotaphy/analyses/]] | [[https://biotaphy.github.io/analyses/]] | 
 |-------------|--------------|----------|
 
