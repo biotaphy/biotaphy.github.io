@@ -16,5 +16,7 @@ repeatable.
 
 
 ## Repositories:
- * [BiotaPhy Analyses](https://github.io/biotaphy/analyses/)
+ | Repository Name | Repository Link                       | Documentation                          |
+ | --------------- | ------------------------------------- | -------------------------------------- |
+ | Analyses        | [https://github.io/biotaphy/analyses/ | [https://biotaphy.github.io/analyses/] | 
 
