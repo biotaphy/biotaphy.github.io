@@ -171,6 +171,6 @@ repeatable.
 |-------------|--------------|----------|
 | Repository Name | Repository Link | Documentation                          |
 | --------------- | --------------- | -------------------------------------- |
-| Analyses        | [Repository](https://github.io/biotaphy/analyses/) | [GitHub pages](https://biotaphy.github.io/analyses/) | 
+| Analyses        | [Repository](https://github.com/biotaphy/analyses/) | [GitHub pages](https://biotaphy.github.io/analyses/) | 
 |-------------|--------------|----------|
 
