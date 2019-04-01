@@ -131,16 +131,15 @@ geographical map of site diversity, and a scatter plot of site or species
 statistics. Brushing data in one highlights the same data in the linked
 windows, enabling visual exploration of species diversity patterns across
 evolutionary, ecological, and statistical dimensions.
-
 ![3 Way Vizualization](/assets/images/3_way_viz.png)
-Figure 3. BiotaPhy Results Package display showing a linked visualization of
+Figure 3. *BiotaPhy Results Package display showing a linked visualization of
 some of the output data. In this example, the user has selected a node in the
 phylogenetic tree, highlighting the clades on either side of the chosen node
 (lower left). This results in highlighted areas in the map (lower right)
 showing the aggregated distributions of those same clades. Finally, the sites
 on the map are displayed in a plot of two statistics, Proportional species
 richness per site, and Aggregate range size for all species present in each
-site.
+site.*
 
 The BiotaPhy project is an open source collaboration between
 [iDigBio](https://idigbio.org) at The University of Florida, 
