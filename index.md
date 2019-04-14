@@ -1,8 +1,8 @@
 # BiotaPhy
 
 **Introduction**. The BiotaPhy ("Byota-fy") Platform is a species distubution and biodversity
-modeling workflow environment that is the product of a three year development
-collaboration among the iDigBio, Lifemapper, and Open Tree of Life Projects.  The platform
+modeling workflow environment that is a product of a three-year development
+collaboration of the iDigBio, Lifemapper, and Open Tree of Life Projects.  The platform
 computes and serves a public archive of species
 occurrence points for over 700,000 species from the Global Biodiversity
 Information Facility (GBIF), and predicted distribution models for about a
