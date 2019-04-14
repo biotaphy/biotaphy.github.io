@@ -154,9 +154,9 @@ at The University of Michigan originally supported by NSF BIO Award #1458422.
 ![Lifemapper](/assets/images/lm_logo.png)
 ![Open Tree of Life](/assets/images/otl_logo.png)
 
-The goal of the project is to produce product-level community tools for
-performing phylo- and biodiversity analyses that are robust, stable, and
-repeatable.
+The goal of the BiotaPhy Project is to establish a biodiversity science gateway for
+scalable, biodiversity analyses that utilize massive and growing online data stores 
+of species data from biological museums in workflows that are repeatable, robust, and supported.
 
 
 ## Repositories:
