@@ -1,4 +1,4 @@
-# BiotaPhy
+# BiotaPhy Project
 
 **Introduction**. The BiotaPhy ("Byota-fy") Platform is a species distubution and biodversity
 modeling workflow environment that is a product of a three-year development
