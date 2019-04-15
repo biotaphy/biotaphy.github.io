@@ -1,23 +1,22 @@
 # BiotaPhy
 
-**Introduction**. The BiotaPhy Platform is based on the Lifemapper species
-modeling environment, it computes and serves a public archive of species
-occurrence points from over 700,000 species from the Global Biodiversity
+**Introduction**. The BiotaPhy ("Byota-fy") Platform is a species distubution and biodversity
+modeling workflow environment that is a product of a three-year development
+collaboration of the iDigBio, Lifemapper, and Open Tree of Life Projects.  The platform
+computes and serves a public archive of species
+occurrence points for over 700,000 species from the Global Biodiversity
 Information Facility (GBIF), and predicted distribution models for about a
 third of these - those terrestrial species with at least 20 unique,
-georeferenced localities. The archive creates models using the Maxent algorithm
+georeferenced locations. The public archive incldes models made using the Maxent algorithm
 for current, predicted past, and predicted future IPCC climate scenarios
-(IPCC 2014). Lifemapper also allows users to request analyses on their own
-data, or iDigBio species data. With continuation funding from NSF in 2013, we
-extended Lifemapper workflows to include the assembly of multispecies data sets
-for macroscale biogeographic analyses of biological diversity. We extended
-Lifemapper’s analysis capabilities by integrating phylogenetic data and
-methods, and by interfacing to HPC class resources. The BiotaPhy Platform  has
-the capacity to process occurrence data for tens of thousands of species on
-continental-scale spatial extents. The BiotaPhy codebase consists of 65,000
+(IPCC 2014). The facility also allows users to request analyses on their own
+data, or iDigBio species occurrence data. With funding from the U.S. NSF in 2013, we
+extended the platform's workflows to include the assembly of multispecies data sets
+for macroecological analyses of biological diversity. We also extended the platform's
+analysis capabilities to include evolutionary evidence by integrating phylogenetic data and
+methods. And we scaled Biotaphy's capacity for biogeographic analyses based on species occurence data by interfacing to XSEDE high-performance computing resources. The BiotaPhy Platform now has the algorithmic and computational capacity to process occurrence data jobs for tens of thousands of species on continental- and global-scale spatial extents. The BiotaPhy codebase consists of 65,000
 lines of Python, plus 120,000 lines of other web code, templates, and
-configuration information. Over the three years of the BiotaPhy Innovation
-project, we committed 4000+ changes to the codebase. BiotaPhy software is open
+configuration information. BiotaPhy software is open
 source, GPL3 licensed and accessible from GitHub.
 
 **Cluster Configuration**. The BiotaPhy Platform requires a physical or virtual
@@ -65,11 +64,11 @@ challenges specific to BiotaPhy workflows, primarily for handling larger-scale
 and asymmetric computations.
 
 **Species Model Archive and Macroecological Analysis**. The production
-installation of the BiotaPhy Platform at KU is populated with GBIF species
+installation of the BiotaPhy Platform is populated with GBIF species
 point occurrence data and modeled distributions for terrestrial plant and
 animal species. This model archive is web-accessible and is primarily useful
 for general browsing and casual discovery, but research use of the platform
-employs BiotaPhy’s capabilities for user-requested species modeling and
+employs BiotaPhy’s capabilities for researcher-defined species modeling and
 analyses, typically using vetted, custom data. BiotaPhy’s interactive web
 application accepts uploaded files of species occurrence point data, range
 maps, or modeled species distributions as inputs for the creation of
@@ -78,14 +77,14 @@ actual or modelled incidence of species sorted into a geospatial grid of custom
 spatial scope and resolution. PAMs are used as input data sets for many types
 of biogeographical analyses; BiotaPhy’s distinctive contribution to PAM
 computing over other related software is with its unique set of analysis
-capabilities and transformational compute scaling. Several integrated
-biodiversity informatics platforms have appeared in the last decade in addition
-to BiotaPhy—e.g., Biodiverse (Laffan et al. 2010); Phytools (Revell 2012);
+capabilities and its transformative compute scaling. Several integrated
+biodiversity informatics platforms have appeared in the last decade—e.g., 
+Biodiverse (Laffan et al. 2010); Phytools (Revell 2012);
 Phylolink (Miller et al. 2018); and GeoDa (Anselin et al. 2006). BiotaPhy
 occupies a unique niche in the ecology/evolution software environment as many
 of these tools only perform a subset of BiotaPhy functions: acquiring and
 serving data, analyzing and visualizing results in an interactive environment.
-In addition, BiotaPhy’s scalable packaging allows it to handle very large
+In addition, BiotaPhy’s scalable architecture allows it to handle very large
 analyses, such as thousands of species at high resolution for large geographic
 extents, by allowing installation on high-performance resources, like virtual
 clusters with multiple powerful compute nodes on San Diego SuperComputer’s
@@ -99,9 +98,9 @@ such as Gotelli’s swap (Gotelli & Entsminger 2003)--break down
 true equal-probabilistic matrix randomizations that maintains required
 conditions for null hypothesis testing and takes advantage of parallelism to
 randomize PAMs in a fraction of the time required by the standard method
-(Grady et al. in prep). Now analyses that used to take days or weeks complete
+(Grady et al. in prep). Now analyses that previously required days or weeks, complete
 in a few hours. Our capacity for computing with continental- and global-scale
-PAMs far surpasses earlier applications as we can perform robust permutation
+PAMs far surpasses earlier applications as we can efficiently perform robust permutation
 testing using a much larger number of randomizations.
 
 In our network integration of iDigBio, Open Tree of Life, and Lifemapper, we
@@ -126,7 +125,7 @@ containing all modeling results, including multi-species outputs, PAMs, various
 spatial statistics, MCPA results, and annotated phylogenetic trees.
 Visualization tools are embedded in the packages, including a tree navigator,
 statistical visualizations, heat maps, and correlation graphs (Fig. 3). The
-Results Package can simultaneously present a phylogenetic tree browser, a
+Results Package simultaneously presents a phylogenetic tree browser, a
 geographical map of site diversity, and a scatter plot of site or species
 statistics. Brushing data in one highlights the same data in the linked
 windows, enabling visual exploration of species diversity patterns across
@@ -155,9 +154,9 @@ at The University of Michigan originally supported by NSF BIO Award #1458422.
 ![Lifemapper](/assets/images/lm_logo.png)
 ![Open Tree of Life](/assets/images/otl_logo.png)
 
-The goal of the project is to produce product-level community tools for
-performing phylo- and biodiversity analyses that are robust, stable, and
-repeatable.
+The goal of the BiotaPhy Project is to establish a biodiversity science gateway for
+scalable, biodiversity analyses that utilize massive and growing online data stores 
+of species data from biological museums in workflows that are repeatable, robust, and supported.
 
 
 ## Repositories:
