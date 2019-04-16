@@ -1,6 +1,6 @@
 # BiotaPhy Project
 
-**Introduction**. The BiotaPhy ("Byota-fy") Platform is a species distubution and biodversity
+**Introduction**. The BiotaPhy ("Biota-fy") Platform is a species distubution and biodversity
 modeling workflow environment that is a product of a three-year development
 collaboration of the iDigBio, Lifemapper, and Open Tree of Life Projects.  The platform
 computes and serves a public archive of species
