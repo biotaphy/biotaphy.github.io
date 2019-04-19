@@ -1,3 +1,6 @@
+---
+redirect_from: "/index.php"
+---
 # BiotaPhy Project
 
 **Introduction**. The BiotaPhy ("Biota-fy") Platform is a species distubution and biodversity
