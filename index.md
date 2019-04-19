@@ -1,5 +1,6 @@
 ---
-redirect_from: "/index.php.html"
+redirect_from:
+ - /index.php.html
 ---
 # BiotaPhy Project
 
