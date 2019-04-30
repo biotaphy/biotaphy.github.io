@@ -51,8 +51,9 @@ phylogenetic tree data, and then choose algorithms and parameters. Once a
 workflow is defined, the DAM marshals the inputs, initiates the job, and
 monitors it to completion. When analyses are complete, the DAM produces a
 downloadable, autonomous results exploration package (see below).
-<br>
+
 ![Data Flow](/assets/images/data_flow.jpg)
+
 Figure 1. *Functions of and communications between BiotaPhy subsystems. The
 Data Access Manager (DAM) responds to external user communications through
 Client Interfaces, then distributes data and jobs internally. Compute
