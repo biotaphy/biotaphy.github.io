@@ -174,18 +174,13 @@ The goal of the BiotaPhy Project is to establish a biodiversity science gateway 
 scalable, biodiversity analyses that utilize massive and growing online data stores 
 of species data from biological museums in workflows that are repeatable, robust, and supported.
 
+## Links:
 
-## Repositories:
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
-{: .tablelines}
+Please visit our websites to see what we are doing and find out more about our projects:
+ * [BiotaPhy Web Client](http://client.lifemapper.org/biotaphy)
+ * [Lifemapper GitHub Pages](https://lifemapper.github.io)
 
-|-------------|--------------|----------|
-| Repository Name | Repository Link | Documentation                          |
-| --------------- | --------------- | -------------------------------------- |
-| Analyses        | [Repository](https://github.com/biotaphy/analyses/) | [GitHub pages](https://biotaphy.github.io/analyses/) | 
-|-------------|--------------|----------|
-
+Also check out our other code repositories on GitHub:
+ * [BiotaPhy Analyses](https://github.com/biotaphy/analyses)
+ * [Lifemapper Client Library](https://github.com/lifemapper/lm_client)
+ * [BiotaPhy Open Tree Wrapper Client](https://github.com/biotaphy/ot_service_wrapper)
