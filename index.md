@@ -11,17 +11,17 @@ computes and serves a public archive of species
 occurrence points for over 700,000 species from the Global Biodiversity
 Information Facility (GBIF), and predicted distribution models for about a
 third of those - terrestrial species with at least 20 unique,
-georeferenced locations. The public archive incldes models made using the Maxent algorithm
+georeferenced locations. The public archive includes models made using the Maxent algorithm
 for current, predicted past, and predicted future IPCC climate scenarios
 (IPCC 2014). The facility also enables researchers to request a suite of custom analyses on their own
 data, or using iDigBio species occurrence data. With funding from the US NSF (BIO/DBI #1458422 and earlier awards), we
 extended the platform's workflows to include the assembly of multispecies data sets
 for macroecological analyses of biological diversity. We also extended the platform's
 analysis capabilities to include evolutionary evidence by integrating phylogenetic data and
-methods. And we scaled Biotaphy's capacity for biogeographic analyses based on species occurence data by interfacing to XSEDE high-performance computing resources. The BiotaPhy Platform now has the algorithmic and computational capacity to process occurrence data jobs for tens of thousands of species on continental- and global-scale spatial extents. The BiotaPhy codebase consists of 65,000
+methods. And we scaled Biotaphy's capacity for biogeographic analyses based on species occurence data by interfacing to XSEDE high-performance computing resources. The BiotaPhy Platform now has the algorithmic and computational capacity to process occurrence data modeling and analysis runs for tens of thousands of species on continental- and global-scale spatial extents. The BiotaPhy codebase consists of 65,000
 lines of Python, plus 120,000 lines of other web code, templates, and
 configuration information. BiotaPhy software is open
-source, GPL3 licensed and accessible from GitHub.
+source, GPL3 licensed, and accessible from GitHub.
 
 **Cluster Configuration**. The BiotaPhy Platform requires a physical or virtual
 compute cluster comprised of a “front end” machine and one or more compute
@@ -91,7 +91,7 @@ serving data, analyzing and visualizing results in an interactive environment.
 In addition, BiotaPhy’s scalable architecture allows it to handle very large
 analyses, such as thousands of species at high resolution for large geographic
 extents, by allowing installation on high-performance resources, like virtual
-clusters with multiple powerful compute nodes on San Diego SuperComputer’s
+clusters with multiple powerful compute nodes on San Diego Supercomputer Center's
 XSEDE resource, Comet.
 
 **Scalable Performance Design**. BiotaPhy’s compute architecture can routinely
@@ -135,7 +135,7 @@ statistics. Brushing data in one highlights the same data in the linked
 windows, enabling visual exploration of species diversity patterns across
 evolutionary, ecological, and statistical dimensions.
 
-![3 Way Vizualization](/assets/images/3_way_viz.png)
+![3 Way Visualization](/assets/images/3_way_viz.png)
 
 Figure 2. *BiotaPhy Results Package display showing a linked visualization of
 some of the output data. In this example, the user has selected a node in the
