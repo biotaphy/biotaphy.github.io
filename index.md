@@ -137,7 +137,9 @@ statistics. Brushing data in one highlights the same data in the linked
 windows, enabling visual exploration of species diversity patterns across
 evolutionary, ecological, and statistical dimensions.
 
-![3 Way Visualization](/assets/images/3_way_viz_border.png)
+<p align="center">
+  <img src="assets/images/3_way_viz_border.png">
+</p>
 
 Figure 2. *BiotaPhy Results Package display showing a linked visualization of
 some of the output data. In this example, the user has selected a node in the
@@ -156,9 +158,11 @@ The BiotaPhy project is an open source collaboration between
 [The Open Tree of Life](https://tree.opentreeoflife.org/opentree)
 at The University of Michigan originally supported by NSF BIO Award #1458422.
 
-![iDigBio](/assets/images/idigbio_logo.png)
-![Lifemapper](/assets/images/lm_logo.png)
-![Open Tree of Life](/assets/images/otl_logo.png)
+<p align="center">
+ [![iDigBio](/assets/images/idigbio_logo.png)](https://idigbio.org)
+ [![Lifemapper](/assets/images/lm_logo.png)](http://lifemapper.org)
+ [![Open Tree of Life](/assets/images/otl_logo.png)](https://tree.opentreeoflife.org/opentree)
+</p>
 
 The goal of the BiotaPhy Project is to establish a biodiversity science gateway for
 scalable, biodiversity analyses that utilize massive and growing online data stores 
