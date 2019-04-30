@@ -159,9 +159,15 @@ The BiotaPhy project is an open source collaboration between
 at The University of Michigan originally supported by NSF BIO Award #1458422.
 
 <p align="center">
- [![iDigBio](/assets/images/idigbio_logo.png)](https://idigbio.org)
- [![Lifemapper](/assets/images/lm_logo.png)](http://lifemapper.org)
- [![Open Tree of Life](/assets/images/otl_logo.png)](https://tree.opentreeoflife.org/opentree)
+ <a href="https://idigbio.org">
+  <img src="assets/images/idigbio_logo.png" alt="iDigBio" />
+ </a>
+ <a href="http://lifemapper.org">
+  <img src="assets/images/lm_logo.png" alt="Lifemapper" />
+ </a>
+ <a href="https://tree.opentreeoflife.org/opentree">
+  <img src="assets/images/otl_logo.png" alt="Open Tree of Life" />
+ </a>
 </p>
 
 The goal of the BiotaPhy Project is to establish a biodiversity science gateway for
