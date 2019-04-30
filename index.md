@@ -136,6 +136,9 @@ statistics. Brushing data in one highlights the same data in the linked
 windows, enabling visual exploration of species diversity patterns across
 evolutionary, ecological, and statistical dimensions.
 
+<p align="center">
+  <src=/assets/images/3_way_viz.png>
+</p>
 ![3 Way Visualization](/assets/images/3_way_viz.png)
 
 Figure 2. *BiotaPhy Results Package display showing a linked visualization of
