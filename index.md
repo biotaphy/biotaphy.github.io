@@ -137,9 +137,8 @@ windows, enabling visual exploration of species diversity patterns across
 evolutionary, ecological, and statistical dimensions.
 
 <p align="center">
-  <src=/assets/images/3_way_viz.png>
-</p>
-![3 Way Visualization](/assets/images/3_way_viz.png)
+ ![3 Way Visualization](/assets/images/3_way_viz.png)
+ </p>
 
 Figure 2. *BiotaPhy Results Package display showing a linked visualization of
 some of the output data. In this example, the user has selected a node in the
