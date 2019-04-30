@@ -138,6 +138,10 @@ evolutionary, ecological, and statistical dimensions.
 
 ![3 Way Visualization](/assets/images/3_way_viz.png)
 
+<center><img src='/assets/images/3_way_viz.png'></center>
+
+![3 Way Visualization] <center><img src='/assets/images/3_way_viz.png'></center>
+
 Figure 2. *BiotaPhy Results Package display showing a linked visualization of
 some of the output data. In this example, the user has selected a node in the
 phylogenetic tree, highlighting the clades on either side of the chosen node
