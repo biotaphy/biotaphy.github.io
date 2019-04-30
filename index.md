@@ -35,7 +35,7 @@ complexity (Williams et al. 2017). Consistent deployment allows us to test on a
 variety of differently configured virtual clusters.
 
 **Platform Architecture**. The Platform comprises four functional subsystems
-(Fig. 2): 1) Data and Analysis Manager (DAM) accepts user data or retrieves
+(Fig. 1): 1) Data and Analysis Manager (DAM) accepts user data or retrieves
 data from online data providers (iDigBio, Open Tree of Life, and GBIF),
 preprocesses data sets, assembles workflows, and post-processes outputs; 
 2) Compute Manager handles work queues, job distribution, and execution; 
@@ -52,7 +52,7 @@ workflow is defined, the DAM marshals the inputs, initiates the job, and
 monitors it to completion. When analyses are complete, the DAM produces a
 downloadable, autonomous results exploration package (see below).
 ![Data Flow](/assets/images/data_flow.jpg)
-Figure 2. *Functions of and communications between BiotaPhy subsystems. The
+Figure 1. *Functions of and communications between BiotaPhy subsystems. The
 Data Access Manager (DAM) responds to external user communications through
 Client Interfaces, then distributes data and jobs internally. Compute
 Management directs jobs to and from Compute Engine, the workhorse of the
@@ -128,7 +128,7 @@ produces downloadable Results Packages as standalone browser-based apps
 containing all modeling results, including multi-species outputs, PAMs, various
 spatial statistics, MCPA results, and annotated phylogenetic trees.
 Visualization tools are embedded in the packages, including a tree navigator,
-statistical visualizations, heat maps, and correlation graphs (Fig. 3). The
+statistical visualizations, heat maps, and correlation graphs (Fig. 2). The
 Results Package simultaneously presents a phylogenetic tree browser, a
 geographical map of site diversity, and a scatter plot of site or species
 statistics. Brushing data in one highlights the same data in the linked
@@ -137,7 +137,7 @@ evolutionary, ecological, and statistical dimensions.
 
 ![3 Way Vizualization](/assets/images/3_way_viz.png)
 
-Figure 3. *BiotaPhy Results Package display showing a linked visualization of
+Figure 2. *BiotaPhy Results Package display showing a linked visualization of
 some of the output data. In this example, the user has selected a node in the
 phylogenetic tree, highlighting the clades on either side of the chosen node
 (lower left). This results in highlighted areas in the map (lower right)
