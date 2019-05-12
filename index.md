@@ -150,7 +150,7 @@ on the map are displayed in a plot of two statistics, Proportional species
 richness per site, and Aggregate range size for all species present in each
 site.*
 
-See: [Literature cited](/literature).
+Find: [Literature citations here](/literature).
 
 The BiotaPhy project is an open source collaboration between
 [iDigBio](https://idigbio.org) at The University of Florida, 
