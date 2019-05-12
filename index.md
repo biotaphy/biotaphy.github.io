@@ -10,7 +10,7 @@ collaboration among [iDigBio](http://www.idigbio.org) at the University of Flori
 [Lifemapper](http://lifemapper.org) at the University of Kansas, and 
 [The Open Tree of Life](http://tree.opentreeoflife.org/opentree)
 at the University of Michigan. The goal of the BiotaPhy Project 
-is to create an extensible, stable, and technically-supported biodiversity community science gateway that makes it easy to utilize the massive and growing amount of species data available from biological museums through open APIs and in user-defined workflows that catalyze convergent research, and more broadly impact education and workforce training in biodiversity informatics. 
+is to create an extensible, stable, and technically-supported biodiversity community science gateway that makes it easy to utilize the massive and growing amount of species data digitized by biological museums through open APIs and in user-defined workflows that catalyze convergent research, and more broadly, impact education and workforce training in biodiversity informatics. 
 
 
 The Biotaphy Platform serves a public archive of species
