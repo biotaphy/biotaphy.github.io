@@ -6,8 +6,10 @@ redirect_from:
 
 **Introduction**. The BiotaPhy ("Biota-fy") Platform is a species distribution and biodiversity
 modeling workflow environment.  It is a product of a three-year research and development
-collaboration of the iDigBio, Lifemapper, and Open Tree of Life Projects.  The platform
-computes and serves a public archive of species
+collaboration among [iDigBio](https://idigbio.org) at The University of Florida, 
+[Lifemapper](http://lifemapper.org) at The University of Kansas, and 
+[The Open Tree of Life](https://tree.opentreeoflife.org/opentree)
+at The University of Michigan. The platform computes and serves a public archive of species
 occurrence points for over 700,000 species from the Global Biodiversity
 Information Facility (GBIF), and predicted distribution models for about a
 third of those - terrestrial species with at least 20 unique,
