@@ -120,9 +120,9 @@ range covariance, Schluter sites-composition covariance, Schluter
 species-ranges covariance, Wright & Reeves’ nestedness, and Stone & Roberts’
 C-score (all enumerated in Soberon & Cavner 2015). We implemented Peres-Neto’s
 methodology for Meta-Community Phylogenetic Analysis
-(MCPA, Leibold et al. 2010)--an approach to tease apart the effects of
-historical biogeography and contemporary environmental filtering on 
-contemporary geospatial patterns of biological diversity.
+(MCPA, Leibold et al. 2010), an approach to tease apart the effects of
+historical biogeography and environmental (ecological) filtering on 
+contemporary spatial patterns of biological diversity.
 
 **Results Packages**. To enable desktop/laptop review of modeling results
 without the need for a continuous BiotaPhy server connection, the Platform
@@ -156,7 +156,7 @@ The BiotaPhy project is an open source software collaboration among
 [iDigBio](https://idigbio.org) at the University of Florida, 
 [Lifemapper](http://lifemapper.org) at the University of Kansas, and 
 [Open Tree of Life](https://tree.opentreeoflife.org/opentree)
-at the University of Michigan supported by U.S. NSF BIO/DBI Awards 1458422, 1458640, and 1458466.
+at the University of Michigan supported by U.S. NSF BIO/DBI Awards 1458640, 1458422, and 1458466 respectively, to the institutions.
 
 <p align="center">
  <a href="https://idigbio.org">
