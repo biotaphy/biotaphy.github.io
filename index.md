@@ -120,9 +120,9 @@ range covariance, Schluter sites-composition covariance, Schluter
 species-ranges covariance, Wright & Reeves’ nestedness, and Stone & Roberts’
 C-score (all enumerated in Soberon & Cavner 2015). We implemented Peres-Neto’s
 methodology for Meta-Community Phylogenetic Analysis
-(MCPA, Leibold et al. 2010)--an approach to decompose the joint effects of
-historical biogeography and contemporary environmental filtering in generating
-contemporary community patterns. 
+(MCPA, Leibold et al. 2010)--an approach to decompose the effects of
+historical biogeography and contemporary environmental filtering have had on 
+contemporary geospatial patterns of biological diversity.
 
 **Results Packages**. To enable desktop/laptop review of modeling results
 without the need for a continuous BiotaPhy server connection, the Platform
@@ -131,10 +131,10 @@ containing all modeling results, including multi-species outputs, PAMs, various
 spatial statistics, MCPA results, and annotated phylogenetic trees.
 Visualization tools are embedded in the packages, including a tree navigator,
 statistical visualizations, heat maps, and correlation graphs (Fig. 2). The
-Results Package simultaneously presents a phylogenetic tree browser, a
-geographical map of site diversity, and a scatter plot of site or species
-statistics. Brushing data in one highlights the same data in the linked
-windows, enabling visual exploration of species diversity patterns across
+Results Package includes a phylogenetic tree browser, a
+geographical map of site diversity, and a scatter plot of various site-based or species-based
+statistics. Brushing data in one window highlights the same data points in linked
+displays, enabling visual exploration of species diversity patterns across
 evolutionary, ecological, and statistical dimensions.
 
 <p align="center">
