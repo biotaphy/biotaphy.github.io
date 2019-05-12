@@ -158,9 +158,7 @@ The BiotaPhy project is an open source software collaboration among
 [Lifemapper](http://lifemapper.org) at The University of Kansas, and 
 [The Open Tree of Life](https://tree.opentreeoflife.org/opentree)
 at The University of Michigan supported by U.S. NSF BIO/DBI Award #1458422. The goal of the BiotaPhy Project 
-is to establish an extensible, scalable, biodiversity science gateway for
-scalable, convergent biodiversity analyses that utilize massive and growing online data stores 
-of species data from biological museums in workflows that are repeatable, robust, and supported.
+is to create an extensible, stable, and technically-supported biodiversity community science gateway that makes it easy to utilize the massive and growing amount of species data available from biological museums in user-defined workflows that catalyze convergent research, and more broadly support education and workforce training in biodiversity informatics. 
 
 <p align="center">
  <a href="https://idigbio.org">
