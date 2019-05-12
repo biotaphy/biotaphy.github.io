@@ -109,9 +109,8 @@ in a few hours. Our capacity for computing with continental- and global-scale
 PAMs far surpasses earlier applications as we can efficiently perform robust permutation
 testing using a much larger number of randomizations.
 
-In our network integration of iDigBio, Open Tree of Life, and Lifemapper, we
-developed a set of multi-species and phylogenetic analyses to leverage the new
-integration of data types. The Platform now includes quantifications and
+As part of our network integration of the iDigBio, Open Tree of Life, and Lifemapper, we
+implemented a suite of multi-species and phylogenetic analyses that were made possible by the convergence of data from the three  data communities. The Biotaphy Platform now includes quantifications and
 qualifications of PAMs including calculation of Whittaker’s multiplicative
 beta, Lande’s additive beta, Legendre’s beta, richness-field of a species,
 dispersion-field of a species, matrix of covariance of composition of sites,
@@ -120,8 +119,8 @@ range covariance, Schluter sites-composition covariance, Schluter
 species-ranges covariance, Wright & Reeves’ nestedness, and Stone & Roberts’
 C-score (all enumerated in Soberon & Cavner 2015). We implemented Peres-Neto’s
 methodology for Meta-Community Phylogenetic Analysis
-(MCPA, Leibold et al. 2010)--an approach to decompose the effects of
-historical biogeography and contemporary environmental filtering have had on 
+(MCPA, Leibold et al. 2010)--an approach to tease apart the effects of
+historical biogeography and contemporary environmental filtering on 
 contemporary geospatial patterns of biological diversity.
 
 **Results Packages**. To enable desktop/laptop review of modeling results
