@@ -156,7 +156,7 @@ The BiotaPhy project is an open source software collaboration among
 [iDigBio](https://idigbio.org) at the University of Florida, 
 [Lifemapper](http://lifemapper.org) at the University of Kansas, and 
 [Open Tree of Life](https://tree.opentreeoflife.org/opentree)
-at the University of Michigan supported by U.S. NSF BIO/DBI Awards 1458640, 1458422, and 1458466 respectively, to the institutions.
+at the University of Michigan and is supported by U.S. NSF BIO/DBI Awards 1458640, 1458422, and 1458466 made to the three institutions, respectively.
 
 <p align="center">
  <a href="https://idigbio.org">
