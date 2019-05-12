@@ -8,7 +8,7 @@ redirect_from:
 modeling workflow environment.  It is the product of a three-year research and development
 collaboration among [iDigBio](http://www.idigbio.org) at the University of Florida, 
 [Lifemapper](http://lifemapper.org) at the University of Kansas, and 
-[The Open Tree of Life](http://tree.opentreeoflife.org/opentree)
+[Open Tree of Life](http://tree.opentreeoflife.org/opentree)
 at the University of Michigan. The goal of the BiotaPhy Project 
 is to create an extensible, stable, and technically-supported biodiversity community science gateway that makes it easy to utilize the massive and growing amount of species data digitized by biological museums through open APIs and in user-defined workflows that catalyze convergent research, and more broadly, impact education and workforce training in biodiversity informatics. 
 
@@ -20,10 +20,10 @@ third of those - terrestrial species with at least 20 unique locations. The publ
 for current, predicted past, and predicted future IPCC climate scenarios
 (IPCC 2014). The facility also enables researchers to request a suite of custom analyses on their own
 data, or by using iDigBio aggregated species occurrence data. With funding from the US NSF (BIO/DBI #1458422 and earlier awards), we
-extended the platform's workflows to include the assembly of multispecies data sets
+extended the Platform's workflows to include the assembly of multispecies data sets
 for macroecological analyses of biological diversity. We also extended the platform's
 analysis capabilities to include evolutionary evidence by integrating phylogenetic data and
-methods. And we scaled Biotaphy's capacity for biogeographic analyses based on species occurrence data by interfacing to XSEDE high-performance computing resources. The BiotaPhy Platform now has the algorithmic and computational capacity to process occurrence data modeling and analysis runs for tens of thousands of species on continental- and global-scale spatial extents. The BiotaPhy codebase consists of 65,000
+methods. And we scaled Biotaphy's capacity for biogeographic analyses based on species occurrence data by interfacing to XSEDE high-performance computing resources. The Platform now has the algorithmic and computational capacity to process occurrence data modeling and analysis runs for tens of thousands of species on continental- and global-scale spatial extents. The codebase consists of 65,000
 lines of Python, plus 120,000 lines of other web code, templates, and
 configuration information. BiotaPhy software is open
 source, GPL3 licensed, and accessible from GitHub.
@@ -157,10 +157,10 @@ site.*
 Literature Citations [here](/literature).
 
 The BiotaPhy project is an open source software collaboration among
-[iDigBio](https://idigbio.org) at The University of Florida, 
-[Lifemapper](http://lifemapper.org) at The University of Kansas, and 
-[The Open Tree of Life](https://tree.opentreeoflife.org/opentree)
-at The University of Michigan supported by U.S. NSF BIO/DBI Award #1458422. 
+[iDigBio](https://idigbio.org) at the University of Florida, 
+[Lifemapper](http://lifemapper.org) at the University of Kansas, and 
+[Open Tree of Life](https://tree.opentreeoflife.org/opentree)
+at the University of Michigan supported by U.S. NSF BIO/DBI Award #1458422. 
 
 <p align="center">
  <a href="https://idigbio.org">
