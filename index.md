@@ -9,7 +9,11 @@ modeling workflow environment.  It is a product of a three-year research and dev
 collaboration among [iDigBio](http://www.idigbio.org) at the University of Florida, 
 [Lifemapper](http://lifemapper.org) at the University of Kansas, and 
 [The Open Tree of Life](http://tree.opentreeoflife.org/opentree)
-at the University of Michigan. The platform computes and serves a public archive of species
+at the University of Michigan. The goal of the BiotaPhy Project 
+is to create an extensible, stable, and technically-supported biodiversity community science gateway that makes it easy to utilize the massive and growing amount of species data available from biological museums through open APIs and in user-defined workflows that catalyze convergent research, and more broadly support education and workforce training in biodiversity informatics. 
+
+
+The Biotaphy Platform computes and serves a public archive of species
 occurrence points for over 700,000 species from the [Global Biodiversity
 Information Facility](http://www.gbif.org) (GBIF), and predicted distribution models for about a
 third of those - terrestrial species with at least 20 unique,
@@ -157,8 +161,7 @@ The BiotaPhy project is an open source software collaboration among
 [iDigBio](https://idigbio.org) at The University of Florida, 
 [Lifemapper](http://lifemapper.org) at The University of Kansas, and 
 [The Open Tree of Life](https://tree.opentreeoflife.org/opentree)
-at The University of Michigan supported by U.S. NSF BIO/DBI Award #1458422. The goal of the BiotaPhy Project 
-is to create an extensible, stable, and technically-supported biodiversity community science gateway that makes it easy to utilize the massive and growing amount of species data available from biological museums in user-defined workflows that catalyze convergent research, and more broadly support education and workforce training in biodiversity informatics. 
+at The University of Michigan supported by U.S. NSF BIO/DBI Award #1458422. 
 
 <p align="center">
  <a href="https://idigbio.org">
