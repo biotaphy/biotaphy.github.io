@@ -13,14 +13,13 @@ at the University of Michigan. The goal of the BiotaPhy Project
 is to create an extensible, stable, and technically-supported biodiversity community science gateway that makes it easy to utilize the massive and growing amount of species data available from biological museums through open APIs and in user-defined workflows that catalyze convergent research, and more broadly impact education and workforce training in biodiversity informatics. 
 
 
-The Biotaphy Platform computes and serves a public archive of species
+The Biotaphy Platform serves a public archive of species
 occurrence points for over 700,000 species from the [Global Biodiversity
-Information Facility](http://www.gbif.org) (GBIF), and predicted distribution models for about a
-third of those - terrestrial species with at least 20 unique,
-georeferenced locations. The public archive includes models made using the Maxent algorithm
+Information Facility](http://www.gbif.org) (GBIF), and computes and presents predicted distribution models for about a
+third of those - terrestrial species with at least 20 unique locations. The public archive includes models made using the Maxent algorithm
 for current, predicted past, and predicted future IPCC climate scenarios
 (IPCC 2014). The facility also enables researchers to request a suite of custom analyses on their own
-data, or using iDigBio species occurrence data. With funding from the US NSF (BIO/DBI #1458422 and earlier awards), we
+data, or by using iDigBio aggregated species occurrence data. With funding from the US NSF (BIO/DBI #1458422 and earlier awards), we
 extended the platform's workflows to include the assembly of multispecies data sets
 for macroecological analyses of biological diversity. We also extended the platform's
 analysis capabilities to include evolutionary evidence by integrating phylogenetic data and
