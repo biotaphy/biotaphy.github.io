@@ -152,11 +152,11 @@ site.*
 
 Literature Citations [here](/literature).
 
-The BiotaPhy project is an open source collaboration between
+The BiotaPhy project is an open source software collaboration among
 [iDigBio](https://idigbio.org) at The University of Florida, 
 [Lifemapper](http://lifemapper.org) at The University of Kansas, and 
 [The Open Tree of Life](https://tree.opentreeoflife.org/opentree)
-at The University of Michigan originally supported by NSF BIO Award #1458422.
+at The University of Michigan supported by U.S. NSF BIO/DBI Award #1458422.
 
 <p align="center">
  <a href="https://idigbio.org">
@@ -170,8 +170,8 @@ at The University of Michigan originally supported by NSF BIO Award #1458422.
  </a>
 </p>
 
-The goal of the BiotaPhy Project is to establish a biodiversity science gateway for
-scalable, biodiversity analyses that utilize massive and growing online data stores 
+The goal of the BiotaPhy Project is to establish an extensible, scalable, biodiversity science gateway for
+scalable, convergent biodiversity analyses that utilize massive and growing online data stores 
 of species data from biological museums in workflows that are repeatable, robust, and supported.
 
 ## Links:
