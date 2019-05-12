@@ -5,7 +5,7 @@ redirect_from:
 # BiotaPhy Project
 
 **Introduction**. The BiotaPhy ("Biota-fy") Platform is a species distribution and biodiversity
-modeling workflow environment.  It is a product of a three-year research and development
+modeling workflow environment.  It is the product of a three-year research and development
 collaboration among [iDigBio](http://www.idigbio.org) at the University of Florida, 
 [Lifemapper](http://lifemapper.org) at the University of Kansas, and 
 [The Open Tree of Life](http://tree.opentreeoflife.org/opentree)
