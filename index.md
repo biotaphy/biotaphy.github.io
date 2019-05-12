@@ -4,7 +4,7 @@ redirect_from:
 ---
 # BiotaPhy Project
 
-**Introduction**. The BiotaPhy ("Biota-fy") Platform is a species distribution and biodversity
+**Introduction**. The BiotaPhy ("Biota-fy") Platform is a species distribution and biodiversity
 modeling workflow environment.  It is a product of a three-year research and development
 collaboration of the iDigBio, Lifemapper, and Open Tree of Life Projects.  The platform
 computes and serves a public archive of species
@@ -18,7 +18,7 @@ data, or using iDigBio species occurrence data. With funding from the US NSF (BI
 extended the platform's workflows to include the assembly of multispecies data sets
 for macroecological analyses of biological diversity. We also extended the platform's
 analysis capabilities to include evolutionary evidence by integrating phylogenetic data and
-methods. And we scaled Biotaphy's capacity for biogeographic analyses based on species occurence data by interfacing to XSEDE high-performance computing resources. The BiotaPhy Platform now has the algorithmic and computational capacity to process occurrence data modeling and analysis runs for tens of thousands of species on continental- and global-scale spatial extents. The BiotaPhy codebase consists of 65,000
+methods. And we scaled Biotaphy's capacity for biogeographic analyses based on species occurrence data by interfacing to XSEDE high-performance computing resources. The BiotaPhy Platform now has the algorithmic and computational capacity to process occurrence data modeling and analysis runs for tens of thousands of species on continental- and global-scale spatial extents. The BiotaPhy codebase consists of 65,000
 lines of Python, plus 120,000 lines of other web code, templates, and
 configuration information. BiotaPhy software is open
 source, GPL3 licensed, and accessible from GitHub.
