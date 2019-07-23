@@ -1,11 +1,18 @@
 # Web Client
-You will want to create a user account first.  Do that by clicking the sign up link under the login box on the left side of the page.  It may take a few seconds for the page to load as it is checking for available data packages that you may have already submitted as well as public data.
 
- 
+** Authenticate
+If you want to perform anything more than a small demo experiment, you will want to sign up for an account.  Do thatby clicking the sign up link under the login box on the left side of the page.  It may take a few seconds for the page to load as it is checking for available data packages that you may have already submitted as well as public data.
+
+<p align="center">
+  <img src="assets/images/sign_up.png">
+</p>
 
 Fill in the new user form and click “SIGN UP”.  You will then be authenticated with your new user account.
 
  
+<p align="center">
+  <img src="assets/images/authenticated_left_side.png">
+</p>
 
 Your user name will appear in the left side bar and under that will be a link called “+ New Project”.  Click that and you will be presented with the input tabs for your new project.  You will want to name your project, which you can do in the left side bar under “New project name”.
 
