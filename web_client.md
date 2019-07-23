@@ -1,29 +1,95 @@
 # Web Client
 
-** Authenticate
-If you want to perform anything more than a small demo experiment, you will want to sign up for an account.  Do thatby clicking the sign up link under the login box on the left side of the page.  It may take a few seconds for the page to load as it is checking for available data packages that you may have already submitted as well as public data.
+** Authenticate **
+If you want to perform anything more than a small demo experiment, you will
+want to sign up for an account.  Do thatby clicking the sign up link under the
+login box on the left side of the page.  It may take a few seconds for the page
+to load as it is checking for available data packages that you may have already
+submitted as well as public data.
 
 <p align="center">
   <img src="assets/images/sign_up.png">
 </p>
 
-Fill in the new user form and click “SIGN UP”.  You will then be authenticated with your new user account.
+Fill in the new user form and click “SIGN UP”.  You will then be authenticated
+with your new user account.  Your user name will appear in the left side bar.
 
  
 <p align="center">
   <img src="assets/images/authenticated_left_side.png">
 </p>
 
-Your user name will appear in the left side bar and under that will be a link called “+ New Project”.  Click that and you will be presented with the input tabs for your new project.  You will want to name your project, which you can do in the left side bar under “New project name”.
 
+** New Project **
+After you have authenticated, or if you just want to try a small project, click
+the link called "+ New Project" in the left-side pane.  You will be presented
+with the input tabs for your new project.  You will need to give your new
+project a name and we recommend that you do that first.  You can do that in the
+left side bar under "New project name".
+
+<p align="center">
+  <img src="assets/images/new_project_name.png">
+</p>
+
+** Occurrence Data **
+Click on the "SPECIES DATA" tab.  There are four options for providing
+occurrence data.  You can 
+[provide a list of species](#Occurrence-Data---Species-List), 
+[select species from a taxon tree](#Occurrence-Data---Taxon-Tree), 
+[select existing occurrence data from GBIF](#Occurrence-Data---GBIF), or 
+[upload your own occurrence CSV file](#Occurrence-Data---Upload).
+
+** Occurrence Data - Species List **
+<p align="center">
+  <img src="assets/images/species_list_pre_match.png">
+</p>
+<p align="center">
+  <img src="assets/images/species_list_post_match.png">
+</p>
+
+** Occurrence Data - Taxon Tree **
+<p align="center">
+  <img src="assets/images/taxon_search_initial.png">
+</p>
+<p align="center">
+  <img src="assets/images/taxon_search_results.png">
+</p>
+<p align="center">
+  <img src="assets/images/taxon_search_selected.png">
+</p>
+
+** Occurrence Data - GBIF **
+<p align="center">
+  <img src="assets/images/gbif_search.png">
+</p>
+<p align="center">
+  <img src="assets/images/gbif_selected.png">
+</p>
+
+** Occurrence Data - Upload **
+You will upload your occurrence data via the "Upload CSV file of species
+points" radio button on the "SPECIES DATA" tab.
+<p align="center">
+  <img src="assets/images/occ_upload.png">
+</p>
+Browse to the CSV file you want to upload and select it.
+
+The UI will read the headers of your CSV file and present you with options for
+defining each column.  Select the appropriate options for your CSV.  Note that
+you must indicate that one column as “Taxon” for you species name column.  One
+must be selected as “Longitude” and finally one must be “Latitude”.  You can
+change the name of your file if you wish and select upload
+
+<p align="center">
+  <img src="assets/images/occ_upload_filled.png">
+</p>
  
+Your file will be
+sent to the server and a progress bar will be displayed.  Once the file is
+successfully uploaded, a message indicating that will be displayed.  Once that
+appears, select the “SDM ALGORITHMS” tab. 
 
-You will upload your occurrence data via the “Upload CSV file of species points” radio button on the first tab.  Browse to the CSV file you want to upload and select it.
-
- 
-
-The UI will read the headers of your CSV file and present you with options for defining each column.  Select the appropriate options for your CSV.  Note that you must indicate that one column as “Taxon” for you species name column.  One must be selected as “Longitude” and finally one must be “Latitude”.  You can change the name of your file if you wish and select upload.  Your file will be sent to the server and a progress bar will be displayed.  Once the file is successfully uploaded, a message indicating that will be displayed.  Once that appears, select the “SDM ALGORITHMS” tab.
-
+** Add Algorithms **
  
 
 You can select one or more algorithms for your project, if you are wanting to run multispecies analyses, I recommend just selecting one.  Hover over the “Add Algorithm” card and select the algorithm you want (probably Maximum Entropy – ATT Implementation).  The card will be updated with the default algorithm parameters which you can change as needed.  After you have made your selections, select the “SDM LAYERS” tab.
