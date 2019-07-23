@@ -150,7 +150,11 @@ on the map are displayed in a plot of two statistics, Proportional species
 richness per site, and Aggregate range size for all species present in each
 site.*
 
-Literature Citations [here](/literature).
+**Literature Citations** can be found [here](/literature).
+
+**Interface Documentation** for the project submission web interface can be found at 
+[https://biotaphy.github.io/web_client](/web_client).  Documentation for the results
+package can be found at [https://biotaphy.github.io/results_package](/results_package).
 
 The BiotaPhy project is an open source software collaboration among
 [iDigBio](https://idigbio.org) at the University of Florida, 
