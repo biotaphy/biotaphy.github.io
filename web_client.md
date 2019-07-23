@@ -1,4 +1,11 @@
 # Web Client
+The Biotaphy web client allows users to submit single or multi-species
+experiments via a web UI.  It is intended for smaller projects (less than
+1000 species) and our standard climate data.  For larger experiments, or for
+assistance with Metacommunity Phylogenetic Analysis (MCPA),
+[contact us](mailto:lifemapper@ku.edu).
+
+----
 ## Table of Contents
 - [Web Client](#web-client)
   * [Table of Contents](#table-of-contents)
