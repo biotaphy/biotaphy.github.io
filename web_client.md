@@ -1,6 +1,22 @@
 # Web Client
+## Table of Contents
+- [Web Client](#web-client)
+  * [Table of Contents](#table-of-contents)
+  * [Authenticate](#authenticate)
+  * [New Project](#new-project)
+  * [Occurrence Data](#occurrence-data)
+    + [Occurrence Data - Species List](#occurrence-data---species-list)
+    + [Occurrence Data - Taxon Tree](#occurrence-data---taxon-tree)
+    + [Occurrence Data - GBIF](#occurrence-data---gbif)
+    + [Occurrence Data - Upload](#occurrence-data---upload)
+  * [Add Algorithms](#add-algorithms)
+  * [Select Climate Data](#select-climate-data)
+  * [Upload Phylogenetic Tree](#upload-phylogenetic-tree)
+  * [Upload Biogeographic Hypotheses](#upload-biogeographic-hypotheses)
+  * [Submit Project](#submit-project)
 
-**Authenticate**
+----
+## Authenticate
 If you want to perform anything more than a small demo experiment, you will
 want to sign up for an account.  Do thatby clicking the sign up link under the
 login box on the left side of the page.  It may take a few seconds for the page
@@ -21,7 +37,7 @@ with your new user account.  Your user name will appear in the left side bar.
 
 ----
 
-**New Project**
+## New Project
 After you have authenticated, or if you just want to try a small project, click
 the link called "+ New Project" in the left-side pane.  You will be presented
 with the input tabs for your new project.  You will need to give your new
@@ -49,7 +65,7 @@ Finally, you will want to [Submit your project](#Submit-Project)
 
 ----
 
-**Occurrence Data**
+## Occurrence Data
 Click on the "SPECIES DATA" tab.  There are four options for providing
 occurrence data.  You can 
  1. [provide a list of species](#Occurrence-Data---Species-List)
@@ -59,7 +75,7 @@ occurrence data.  You can
 
 ----
 
-**Occurrence Data - Species List**
+### Occurrence Data - Species List
 If you want to provide a list of species and have occurrence data retrieved
 from iDigBio, from the "SPECIES DATA" tab, select the "List of Species" radio
 button.  This is the default option and you will be presented with a text box
@@ -83,7 +99,7 @@ proceed to [Add Algorithms](#Add-Algorithms).
 
 ----
 
-**Occurrence Data - Taxon Tree**
+### Occurrence Data - Taxon Tree
 If you want to select several taxa from the same group, you can do that from
 the taxon tree interface.  From the "SPECIES DATA" tab, select the
 "Taxonomic Search" radio button.  This search will let you drill down through
@@ -119,7 +135,7 @@ you want to include and then proceed to [Add Algorithms](#Add-Algorithms).
 
 ----
 
-**Occurrence Data - GBIF**
+### Occurrence Data - GBIF
 You can view and use data from GBIF that Biotaphy has already acquired.  To do
 so, select the "Use GBIF data" radio button under the "SPECIES DATA" tab.  You
 will be presented with a search field.  Start typing the name of a species that
@@ -149,7 +165,7 @@ Select the species you wish to include and then proceed to
 
 ----
 
-**Occurrence Data - Upload**
+### Occurrence Data - Upload
 You can upload your occurrence data via the "Upload CSV file of species
 points" radio button on the "SPECIES DATA" tab.
 <p align="center">
@@ -173,7 +189,7 @@ displayed.  After that appears, proceed to [Add Algorithms](#Add-Algorithms).
 
 ----
 
-**Add Algorithms**
+## Add Algorithms
 Click on the "SDM ALGORITHMS" tab, you can select one or more algorithms for
 your project, if you are wanting to run multispecies analyses, we recommend
 just selecting one.  Hover over the “Add Algorithm” card and select the
@@ -195,7 +211,7 @@ Add additional algorithms if you wish and move on to
 
 ----
  
-**Select Climate Data**
+## Select Climate Data
 The "SDM Layers" tab displays the available climate data you can use for your
 models.  Each card represents a package of scenarios and will allow you to
 select the climate scenarios to be used for creating Species Distribution
@@ -216,7 +232,7 @@ analyses, you may want to [Upload a Tree](#Upload-Phylogenetic-Tree).
 
 ----
  
-**Upload Phylogenetic Tree**
+## Upload Phylogenetic Tree
 If you wish to perform MCPA, or you want to include Phylogenetic statistics
 with the multi-species analyses, you will need to provide your tree.  That can
 be done under the “TREE UPLOAD” tab.  Browse to your tree file and select
@@ -236,7 +252,7 @@ If you wish to compute MCPA, continue on to
 
 ----
 
-**Upload Biogeographic Hypotheses**
+## Upload Biogeographic Hypotheses
 To perform MCPA, you must provide biogeographic hypotheses.  Select the
 "HYPOTHESES" tab and upload your hypotheses in a zip file.
 
@@ -269,7 +285,7 @@ After uploading your hypotheses, move on to [Submit Project](#Submit-Project).
 
 ----
 
-**Submit Project**
+## Submit Project
 Finally, select the “SUBMIT PROJECT” tab.  This tab shows you what data you
 have provided for your project.  If you have run through the steps that I have
 listed, each of the check boxes should be checked.  There is a final toggle for
