@@ -180,6 +180,8 @@ at the University of Michigan and is supported by U.S. NSF BIO/DBI Awards 145864
 
 Please visit our websites to see what we are doing and find out more about our projects:
  * [BiotaPhy Web Client](http://client.lifemapper.org/biotaphy)
+ * [BiotaPhy Web Client Documentation](/web_client)
+ * [BiotaPhy Results Package Documentation](/results_package)
  * [Lifemapper GitHub Pages](https://lifemapper.github.io)
 
 Also check out our other code repositories on GitHub:
