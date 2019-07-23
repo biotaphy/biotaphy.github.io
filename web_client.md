@@ -8,7 +8,6 @@ assistance with Metacommunity Phylogenetic Analysis (MCPA),
 ----
 ## Table of Contents
 - [Web Client](#web-client)
-  * [Table of Contents](#table-of-contents)
   * [Authenticate](#authenticate)
   * [New Project](#new-project)
   * [Occurrence Data](#occurrence-data)
