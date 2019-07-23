@@ -1,11 +1,11 @@
 # Results Package
-The Biotaphy results package includes all of the single and multi-species
+The BiotaPhy results package includes all of the single and multi-species
 analyses performed for a particular project in a zip file download.  Other than
 map base layers, the entire package is self-contained and does not require an
 internet connection.  An example results package for the public Heuchera
 project can be downloaded from
 http://client.lifemapper.org/dl/heuchera_demo.zip.  User packages can be
-retrieved from the Biotaphy web UI at http://client.lifemapper.org/biotaphy.
+retrieved from the BiotaPhy web UI at http://client.lifemapper.org/biotaphy.
 Completed projects are listed in the left side panel and when they are selected
 a "Download Results Package" button will allow you to retrieve the package.
 Download the demo package, or a user package, and unzip the file on your local

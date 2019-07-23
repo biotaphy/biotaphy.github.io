@@ -11,7 +11,7 @@ collaboration among [iDigBio](http://www.idigbio.org) at the University of Flori
 [Open Tree of Life](http://tree.opentreeoflife.org/opentree)
 at the University of Michigan. The goal of the BiotaPhy Project 
 is to create an extensible, stable, and technically-supported biodiversity community science gateway that makes it easy to utilize the massive and growing amount of species data digitized by biological museums through open APIs and in user-defined workflows that catalyze convergent research, and more broadly, impact education and workforce training in biodiversity informatics. 
-The Biotaphy Platform serves a public archive of species occurrence points for over 700,000 species from the [Global Biodiversity
+The BiotaPhy Platform serves a public archive of species occurrence points for over 700,000 species from the [Global Biodiversity
 Information Facility](http://www.gbif.org) (GBIF), and computes and presents predicted distribution models for about a
 third of those - terrestrial species with at least 20 unique locations. The public archive includes models made using the Maxent algorithm for current, predicted past, and predicted future IPCC climate scenarios
 (IPCC 2014). The facility also enables researchers to request a suite of custom analyses on their own
@@ -19,7 +19,7 @@ data, or by using iDigBio aggregated species occurrence data. With funding from 
 extended the Platform's workflows to include the assembly of multispecies data sets
 for macroecological analyses of biological diversity. We also extended the Platform's
 analysis capabilities to include evolutionary evidence by integrating phylogenetic data and
-methods. And we scaled Biotaphy's capacity for biogeographic analyses based on species occurrence data by interfacing to XSEDE high-performance computing resources. The Platform now has the algorithmic and computational capacity to process occurrence data modeling and analysis runs for tens of thousands of species on continental- and global-scale spatial extents. The codebase consists of 65,000
+methods. And we scaled BiotaPhy's capacity for biogeographic analyses based on species occurrence data by interfacing to XSEDE high-performance computing resources. The Platform now has the algorithmic and computational capacity to process occurrence data modeling and analysis runs for tens of thousands of species on continental- and global-scale spatial extents. The codebase consists of 65,000
 lines of Python, plus 120,000 lines of other web code, templates, and
 configuration information. BiotaPhy software is open
 source, GPL3 licensed, and accessible from GitHub.
@@ -111,7 +111,7 @@ PAMs far surpasses earlier applications as we can efficiently perform robust per
 testing using a much larger number of randomizations.
 
 As part of our network integration of the iDigBio, Open Tree of Life, and Lifemapper, we
-implemented a suite of multi-species and phylogenetic analyses that were made possible by the convergence of data from the three  data communities. The Biotaphy Platform now includes quantifications and
+implemented a suite of multi-species and phylogenetic analyses that were made possible by the convergence of data from the three  data communities. The BiotaPhy Platform now includes quantifications and
 qualifications of PAMs including calculation of Whittaker’s multiplicative
 beta, Lande’s additive beta, Legendre’s beta, richness-field of a species,
 dispersion-field of a species, matrix of covariance of composition of sites,

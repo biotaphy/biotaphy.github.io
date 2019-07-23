@@ -1,5 +1,5 @@
 # Web Client
-The Biotaphy web client allows users to submit single or multi-species
+The BiotaPhy web client allows users to submit single or multi-species
 experiments via a web UI.  It is intended for smaller projects (less than
 1000 species) and our standard climate data.  For larger experiments, or for
 assistance with Metacommunity Phylogenetic Analysis (MCPA),
@@ -142,7 +142,7 @@ you want to include and then proceed to [Add Algorithms](#Add-Algorithms).
 ----
 
 ### Occurrence Data - GBIF
-You can view and use data from GBIF that Biotaphy has already acquired.  To do
+You can view and use data from GBIF that BiotaPhy has already acquired.  To do
 so, select the "Use GBIF data" radio button under the "SPECIES DATA" tab.  You
 will be presented with a search field.  Start typing the name of a species that
 you are interested in and matching taxa will be autocompleted after you type
